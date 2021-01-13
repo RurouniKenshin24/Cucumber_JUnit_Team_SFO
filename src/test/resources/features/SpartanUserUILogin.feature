@@ -1,4 +1,4 @@
-Feature: Login
+Feature: Login Functionality
   Background: User is on Spartan home page
 
   Scenario: Login as User
